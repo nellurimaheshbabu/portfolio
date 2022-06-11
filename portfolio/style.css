@@ -330,6 +330,7 @@ section .title::after{
 .contact .contact-content .row{
     display: flex;
     height: 65px;
+    width: 100%;
     align-items: left;
 }
 .contact .contact-content .row .info{
